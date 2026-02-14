@@ -15,12 +15,15 @@ This is all you NEED for EVERYTHING!
 ---
 
 ## 🕹 Games Covered (or atleast trying to cover)
-- **Among Us** – Textures, Mods, And tools.  (SOON)
-- **Roblox** – Exploits, Assets, and methods.  (SOON)
+- **Among Us** – Textures, Mods, And tools.  (WORKING ON NOW!)
+- **Roblox** – Exploits, Assets, and Methods.  (SOON)
 - **Gorilla Tag** – Methods, Mods, and custom stuff. (SOON)
-- **Minecraft** – skins, texture packs, and mini-guides  (MAYBE SOON)
+- **Minecraft** – Proxys, Methods, and Clients (MAYBE SOON)
 - …and more coming soon!  
 
 ---
 
+## 💬 Contact Us
+- **Issues** - Make a new issue to contact us!
+- **Community Server** - Join the discord server too!  
 
