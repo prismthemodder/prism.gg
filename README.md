@@ -7,10 +7,10 @@ This is all you NEED for EVERYTHING!
 ---
 
 ## 🌟 Features
-- Guides, tips, and utilities for popular games  
-- Downloadable resources (textures, skins, maps)  
-- Legal modding and scripting tutorials for Roblox & other games  
-- Constantly updated with new content  
+- Utilities for many games. 
+- Easy to use mods. 
+- Legal And Illegal Modding!  
+- Constantly updated with new content!
 
 ---
 
