@@ -1,4 +1,4 @@
-# Prism.gg – The Ultimate Utility Hub 💀✨
+# Prism.gg – The BEST Utility Hub right NOW!
 
 Welcome to **Prism.gg**, the **best utility site on the web** for gamers, modders, and anyone who loves to flex online.  
 
