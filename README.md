@@ -2,7 +2,7 @@
 
 Welcome to **PRISM.GG**, the **best utility site on the web** for modders and content creators!
 
-This is your one-stop hub for everything **Among Us, Roblox, Gorilla Tag, Minecraft**, and more!
+This is all you NEED for EVERYTHING! 
 
 ---
 
@@ -14,16 +14,13 @@ This is your one-stop hub for everything **Among Us, Roblox, Gorilla Tag, Minecr
 
 ---
 
-## 🕹 Games Covered
-- **Among Us** – role guides, UI mods, custom textures  
-- **Roblox** – scripts, mods, and fan tools  
-- **Gorilla Tag** – VR utilities, maps, and mods  
-- **Minecraft** – skins, texture packs, and mini-guides  
+## 🕹 Games Covered (or atleast trying to cover)
+- **Among Us** – Textures, Mods, And tools.  (SOON)
+- **Roblox** – Exploits, Assets, and methods.  (SOON)
+- **Gorilla Tag** – Methods, Mods, and custom stuff. (SOON)
+- **Minecraft** – skins, texture packs, and mini-guides  (MAYBE SOON)
 - …and more coming soon!  
 
 ---
 
-## 🚀 Getting Started
-1. Clone or download the repository:
-```bash
-git clone https://github.com/prismthemodder/prism.gg.git
+
