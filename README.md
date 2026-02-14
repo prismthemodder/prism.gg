@@ -1,6 +1,6 @@
 # Prism.gg – The BEST Utility Hub right NOW!
 
-Welcome to **Prism.gg**, the **best utility site on the web** for gamers, modders, and anyone who loves to flex online.  
+Welcome to **PRISM.GG**, the **best utility site on the web** for modders and content creators!
 
 This is your one-stop hub for everything **Among Us, Roblox, Gorilla Tag, Minecraft**, and more!
 
