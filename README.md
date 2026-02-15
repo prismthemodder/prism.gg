@@ -55,11 +55,6 @@ Install dependencies / run as admin
 
 ---
 
-## Contribute
-Fork → branch → PR
-
----
-
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=prismthemodder&show_icons=true">
 
