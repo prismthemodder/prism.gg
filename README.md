@@ -28,25 +28,8 @@
 
 ---
 
-## FAQ
-<details>
-<summary>It doesn't start</summary>
-Install dependencies / run as admin
-</details>
-
----
-
-## Roadmap
-- [x] Core
-- [ ] Updater
-- [ ] Themes
-
----
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=prismthemodder&show_icons=true">
 
 ---
 
 ## License
-MIT
+#MIT
