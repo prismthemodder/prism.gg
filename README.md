@@ -25,20 +25,8 @@
 
 ---
 
-## Install
-```bash
-git clone https://github.com/USER/REPO
-cd REPO
-pip install -r requirements.txt
-```
-
-## Run
-```bash
-project run
-```
 
 ---
-
 
 ## FAQ
 <details>
