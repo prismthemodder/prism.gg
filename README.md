@@ -1,4 +1,4 @@
-<h1 align="center">PROJECT NAME</h1>
+<h1 align="center">PRISM.GG</h1>
 <p align="center">short description</p>
 
 <p align="center">
