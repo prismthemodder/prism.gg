@@ -17,12 +17,11 @@
 
 ---
 
-## Features
-| Item | |
-|---|---|
-| GUI | ✅ |
-| CLI | ✅ |
-| Plugins | ⏳ |
+## Supported Games
+- [x] Amoug Us (PC)
+- [ ] Gorilla Tag (VR AND PC)
+- [ ] Minecraft (PC)
+- [ ] Big Scary (VR)
 
 ---
 
@@ -76,7 +75,7 @@ Fork → branch → PR
 ---
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=USER&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=prismthemodder&show_icons=true">
 
 ---
 
