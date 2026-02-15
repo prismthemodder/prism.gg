@@ -39,20 +39,6 @@ project run
 
 ---
 
-## Config
-```json
-{ "theme":"dark","debug":false }
-```
-
----
-
-## Example
-```
-[OK] Loaded
-[READY] Running
-```
-
----
 
 ## FAQ
 <details>
