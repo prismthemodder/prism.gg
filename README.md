@@ -1,29 +1,84 @@
-# Prism.gg – The BEST Utility Hub right NOW!
+<h1 align="center">PROJECT NAME</h1>
+<p align="center">short description</p>
 
-Welcome to **PRISM.GG**, the **best utility site on the web** for modders and content creators!
+<p align="center">
+<img src="https://img.shields.io/github/stars/USER/REPO?style=flat">
+<img src="https://img.shields.io/github/issues/USER/REPO?style=flat">
+<img src="https://img.shields.io/github/license/USER/REPO?style=flat">
+</p>
 
-This is all you NEED for EVERYTHING! 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=500&lines=Fast;Simple;Open+Source">
+</p>
 
----
-
-## 🌟 Features
-- Utilities for many games. 
-- Easy to use mods. 
-- Legal And Illegal Modding!  
-- Constantly updated with new content!
-
----
-
-## 🕹 Games Covered (or atleast trying to cover)
-- **Among Us** – Textures, Mods, And tools.  (WORKING ON NOW!)
-- **Roblox** – Exploits, Assets, and Methods.  (SOON)
-- **Gorilla Tag** – Methods, Mods, and custom stuff. (SOON)
-- **Minecraft** – Proxys, Methods, and Clients (MAYBE SOON)
-- …and more coming soon!  
+<p align="center">
+<img src="assets/demo.gif" width="600">
+</p>
 
 ---
 
-## 💬 Contact Us
-- **Issues** - Make a new issue to contact us!
-- **Community Server** - Join the discord server too!  
+## Features
+| Item | |
+|---|---|
+| GUI | ✅ |
+| CLI | ✅ |
+| Plugins | ⏳ |
 
+---
+
+## Install
+```bash
+git clone https://github.com/USER/REPO
+cd REPO
+pip install -r requirements.txt
+```
+
+## Run
+```bash
+project run
+```
+
+---
+
+## Config
+```json
+{ "theme":"dark","debug":false }
+```
+
+---
+
+## Example
+```
+[OK] Loaded
+[READY] Running
+```
+
+---
+
+## FAQ
+<details>
+<summary>It doesn't start</summary>
+Install dependencies / run as admin
+</details>
+
+---
+
+## Roadmap
+- [x] Core
+- [ ] Updater
+- [ ] Themes
+
+---
+
+## Contribute
+Fork → branch → PR
+
+---
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=USER&show_icons=true">
+
+---
+
+## License
+MIT
