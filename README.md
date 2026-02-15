@@ -29,4 +29,5 @@
 
 
 ## License
-#MIT
+# MIT
+You may use this project, the code, as-long as you give me credit.
