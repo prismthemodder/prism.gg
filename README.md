@@ -1,5 +1,5 @@
 <h1 align="center">PRISM.GG</h1>
-<p align="center">short description</p>
+<p align="center">The Best Utility Tool!</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/USER/REPO?style=flat">
