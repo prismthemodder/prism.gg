@@ -2,9 +2,9 @@
 <p align="center">The Best Utility Tool!</p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/USER/REPO?style=flat">
-<img src="https://img.shields.io/github/issues/USER/REPO?style=flat">
-<img src="https://img.shields.io/github/license/USER/REPO?style=flat">
+<img src="https://img.shields.io/github/stars/prismthemodder/prism.gg?style=flat">
+<img src="https://img.shields.io/github/issues/prismthemodder/prism.gg?style=flat">
+<img src="https://img.shields.io/github/license/prismthemodder/prism.gg?style=flat">
 </p>
 
 <p align="center">
